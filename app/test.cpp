@@ -1,6 +1,6 @@
 #include "test.h"
 
-int test_function()
+int my_func()
 {
 	return 0;
 }

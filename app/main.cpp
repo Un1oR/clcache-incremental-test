@@ -1,4 +1,6 @@
+#include "test.h"
+
 int main()
 {
-    return 0;
+    return my_func();
 }
